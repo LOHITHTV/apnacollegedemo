@@ -1,4 +1,4 @@
 # apnacollegedemo
 this is my first git repository.
 <br>
-Author-Lohith
+Author-Lohith(Apna college)
